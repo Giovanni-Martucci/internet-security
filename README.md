@@ -1,3 +1,3 @@
 # internet-security
 
-Studio e utilizzo di una falla nota nel software IBM Q-Radar.
+Study and exploitation of a known vulnerability in the IBM Q-Radar software.
